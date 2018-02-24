@@ -9,3 +9,6 @@
 
 - webpack
 - webpack -p
+
+- npm install --save-dev css-loader style-loader
+- npm i --save-dev file-loader url-loader
