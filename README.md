@@ -12,3 +12,5 @@
 
 - npm install --save-dev css-loader style-loader
 - npm i --save-dev file-loader url-loader
+
+- npm install --save-dev extract-text-webpack-plugin
